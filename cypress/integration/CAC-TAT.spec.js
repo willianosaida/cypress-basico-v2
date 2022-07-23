@@ -174,6 +174,8 @@ describe('Central de Atendimento ao Cliente TAT', function() {
         cy.contains('Política de privacidade').should('be.visible')
     })
 
+    
+
 })
 
 
